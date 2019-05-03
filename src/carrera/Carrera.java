@@ -43,6 +43,7 @@ public class Carrera {
         }while(respuesta2<4);
         System.out.println("Final del menú");
         System.out.println("Esto es una prueba de como funciona el push de Netbeans hacia el Github");
+        System.out.println("Esto es una etiqueta creada");
     }
     
 }
